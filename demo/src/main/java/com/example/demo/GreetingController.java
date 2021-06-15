@@ -12,6 +12,8 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class GreetingController {
   
+//  test push 2nd time git
+  
   // final - constant
   // static - class variable
   private static final String template = "Hello, %s!";
